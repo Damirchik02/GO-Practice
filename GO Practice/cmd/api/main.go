@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	handlers "/Users/damir/Desktop/GO Practice/handlers"
-	middleware "/Users/damir/Desktop/GO Practice/middleware"
+	"taskmanager/handlers"
+	"taskmanager/middleware"
 )
 
 func main() {
