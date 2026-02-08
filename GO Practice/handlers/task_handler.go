@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 	"strconv"
-	"/Users/damir/Desktop/GO Practice/models"
+	"taskmanager/models"
 )
 
 var tasks = make(map[int]*models.Task)
